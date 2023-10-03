@@ -38,6 +38,7 @@ const Product = ({ data, width, height }) => {
             className="eachProductText"
             style={{
               width: width ? width : 300,
+              color: isHover && '#2ac1bc',
             }}
           >
             <p
