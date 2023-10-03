@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SeoulMiner/static/css/main.b6f5e067.css",
+    "main.js": "/SeoulMiner/static/js/main.b5722b17.js",
+    "index.html": "/SeoulMiner/index.html",
+    "main.b6f5e067.css.map": "/SeoulMiner/static/css/main.b6f5e067.css.map",
+    "main.b5722b17.js.map": "/SeoulMiner/static/js/main.b5722b17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6f5e067.css",
+    "static/js/main.b5722b17.js"
+  ]
+}
